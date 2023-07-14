@@ -1,6 +1,8 @@
+package aula01;
+
 import java.util.Scanner;
 
-public class Main {
+public class FahreinheitToCelcius {
     public static String convertFahreinheitToCelcius(String fahreinheit) {
         double fahreinheitDouble = Double.parseDouble(fahreinheit);
         double celcius = 5 * ((fahreinheitDouble - 32) / 9);
