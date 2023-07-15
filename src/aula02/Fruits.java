@@ -12,7 +12,7 @@ public class Fruits {
     }
     public static void main(String[] args) {
         String[] fruitsInPromo =  {"maçã", "pêra", "laranja", "caqui", "tomate"};
-        Double sum = 0.0;
+        double sum = 0.0;
 
         Scanner sc = new Scanner(System.in);
 
