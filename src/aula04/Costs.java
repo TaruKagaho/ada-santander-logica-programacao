@@ -5,7 +5,7 @@ import java.text.DecimalFormatSymbols;
 import java.util.Arrays;
 import java.util.Locale;
 
-public class Operators {
+public class Costs {
     public static void main(String[] args) {
         // Locale.setDefault(new Locale("en", "US"));
 

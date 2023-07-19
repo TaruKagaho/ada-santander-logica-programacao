@@ -7,6 +7,7 @@
     <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula03/HeronFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/HeronFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula04/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/Costs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.Incomes">
     <configuration name="Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula03.Costs" />
       <module name="Exercicios" />
@@ -53,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Operators" />
+    <configuration name="Incomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.Incomes" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula03.Wages" />
+    <configuration name="aula04.Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.Costs" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula03.*" />
+          <option name="PATTERN" value="aula04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.Incomes" />
+        <item itemvalue="Application.aula04.Costs" />
         <item itemvalue="Application.UniqueCharacter" />
         <item itemvalue="Application.Costs" />
         <item itemvalue="Application.UniqueValues" />
-        <item itemvalue="Application.Wages" />
       </list>
     </recent_temporary>
   </component>
@@ -130,49 +131,49 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>53</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>54</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>56</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>57</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>64</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>65</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>66</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>63</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/aula04/Operators.java</url>
+          <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>62</line>
-          <properties class="aula04.Operators" method="arredondar">
+          <properties class="aula04.Costs" method="arredondar">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
