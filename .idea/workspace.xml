@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/aula03/HeronFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/HeronFormula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula04/DaysOfLive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/DaysOfLive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DaysOfLive">
+  <component name="RunManager" selected="Application.aula04.UniqueCharacter">
     <configuration name="DaysOfLive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula04.DaysOfLive" />
       <module name="Exercicios" />
@@ -79,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula03.UniqueCharacter" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="aula04.Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula04.Costs" />
       <module name="Exercicios" />
@@ -105,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aula04.UniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.UniqueCharacter" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aula04.UniqueCharacter" />
         <item itemvalue="Application.DaysOfLive" />
         <item itemvalue="Application.Grades" />
         <item itemvalue="Application.Incomes" />
         <item itemvalue="Application.aula04.Costs" />
-        <item itemvalue="Application.UniqueCharacter" />
       </list>
     </recent_temporary>
   </component>
