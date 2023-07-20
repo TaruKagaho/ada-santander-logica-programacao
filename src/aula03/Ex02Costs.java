@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Arrays;
 
-public class Costs {
+public class Ex02Costs {
     public static double[] custosCarro( double[] input) {
         double[] costs = new double[2];
 

@@ -1,6 +1,6 @@
 package aula03;
 
-public class UniqueValues {
+public class Ex05UniqueValues {
     public static boolean elementosRepetidos(double[] input) {
         int count = 0;
 

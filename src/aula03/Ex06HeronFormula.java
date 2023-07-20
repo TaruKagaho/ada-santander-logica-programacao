@@ -1,6 +1,6 @@
 package aula03;
 
-public class HeronFormula {
+public class Ex06HeronFormula {
     public static double calculateTriangleArea(int a, int b, int c) {
         /*boolean isTriangle = verifyIfIsTriangle(a, b, c);
 

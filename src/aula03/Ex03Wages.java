@@ -3,7 +3,7 @@ package aula03;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-public class Wages {
+public class Ex03Wages {
     public static double calculoSalario( double[] input) {
         double income = 0;
 

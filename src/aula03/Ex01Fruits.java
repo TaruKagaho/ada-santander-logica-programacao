@@ -1,6 +1,6 @@
 package aula03;
 
-public class Fruits {
+public class Ex01Fruits {
     public static double custoCompra(double input) {
         if (input > 10) {
             return input * 1.25;
