@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula03/HeronFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/HeronFormula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.aula04.UniqueCharacter">
+  <component name="RunManager" selected="Application.UniqueValues">
     <configuration name="DaysOfLive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula04.DaysOfLive" />
       <module name="Exercicios" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula04.Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Costs" />
+    <configuration name="UniqueValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.UniqueValues" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueValues" />
         <item itemvalue="Application.aula04.UniqueCharacter" />
         <item itemvalue="Application.DaysOfLive" />
         <item itemvalue="Application.Grades" />
         <item itemvalue="Application.Incomes" />
-        <item itemvalue="Application.aula04.Costs" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +168,31 @@
           <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
           <line>63</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula04/UniqueValues.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula04/UniqueValues.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula04/UniqueValues.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula04/UniqueValues.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula04/UniqueValues.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/aula04/Costs.java</url>
