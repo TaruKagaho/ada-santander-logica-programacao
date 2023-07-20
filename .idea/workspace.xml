@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aula04/Grades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula03/HeronFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/HeronFormula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula04/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/Costs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +40,26 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Incomes">
+  <component name="RunManager" selected="Application.Grades">
     <configuration name="Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula03.Costs" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aula03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.Grades" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula03.UniqueValues" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="aula04.Costs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula04.Costs" />
       <module name="Exercicios" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Grades" />
         <item itemvalue="Application.Incomes" />
         <item itemvalue="Application.aula04.Costs" />
         <item itemvalue="Application.UniqueCharacter" />
         <item itemvalue="Application.Costs" />
-        <item itemvalue="Application.UniqueValues" />
       </list>
     </recent_temporary>
   </component>
