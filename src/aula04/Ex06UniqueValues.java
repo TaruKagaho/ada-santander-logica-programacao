@@ -1,6 +1,6 @@
 package aula04;
 
-public class UniqueValues {
+public class Ex06UniqueValues {
     public static void main(String[] args) {
         double[][] entradas = {
                 {2.5, 3.2, 4.5, 5, 6},

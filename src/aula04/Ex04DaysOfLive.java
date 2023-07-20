@@ -1,6 +1,6 @@
 package aula04;
 
-public class DaysOfLive {
+public class Ex04DaysOfLive {
     public static void main(String[] args) {
         int[][] entradas = {
                 {5, 6, 12},

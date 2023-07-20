@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 
-public class Incomes {
+public class Ex02Incomes {
     public static void main(String[] args) {
         double[][] entradas = {
                 {1, 5.0, 2000.00},

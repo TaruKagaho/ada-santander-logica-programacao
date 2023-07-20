@@ -1,6 +1,6 @@
 package aula04;
 
-public class Grades {
+public class Ex03Grades {
     public static void main(String[] args) {
         double[][] entradas = {
                 {8.0, 7.0, 8.0, 8.0},

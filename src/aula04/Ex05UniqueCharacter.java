@@ -1,6 +1,6 @@
 package aula04;
 
-public class UniqueCharacter {
+public class Ex05UniqueCharacter {
     public static void main(String[] args) {
         String[] entradas = {
                 "amor",
