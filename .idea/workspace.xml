@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="">
+    <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="feat: atualiza nomes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula03/Ex01Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Ex01Fruits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula03/Ex02Costs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Ex02Costs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula03/Ex03Wages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Ex03Wages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula03/Ex05UniqueValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Ex05UniqueValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula03/Ex06HeronFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula03/Ex06HeronFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula05/exceptions/InvalidZeroValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/exceptions/InvalidZeroValueException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +39,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex07Triangle">
-    <configuration name="Ex03Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Ex03Grades" />
+  <component name="RunManager" selected="Application.Ex01Fruits">
+    <configuration name="Ex01Fruits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula05.Ex01Fruits" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.*" />
+          <option name="PATTERN" value="aula05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex01Fruits" />
         <item itemvalue="Application.Ex07Triangle" />
         <item itemvalue="Application.Ex06UniqueValues" />
         <item itemvalue="Application.Ex05UniqueCharacter" />
         <item itemvalue="Application.Ex04DaysOfLive" />
-        <item itemvalue="Application.Ex03Grades" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +124,20 @@
       <option name="presentableId" value="Default" />
       <updated>1689210500876</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: atualiza nomes">
+      <option name="closed" value="true" />
+      <created>1689816274959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689816274959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: atualiza nomes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: atualiza nomes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
