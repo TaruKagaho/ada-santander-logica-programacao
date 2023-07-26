@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ae582aa-eb12-44b0-993b-555f34aba889" name="Changes" comment="feat: atualiza nomes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula05/exceptions/InvalidZeroValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula05/exceptions/InvalidZeroValueException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula06/Ex08Challange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula06/Ex08Challange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
       <list>
         <option value="Record" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -39,13 +40,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Prog/Lets Code - Ada/Santander junho-2023/Back-end - Java/Exercícios&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex01Fruits">
-    <configuration name="Ex01Fruits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula05.Ex01Fruits" />
+  <component name="RunManager" selected="Application.Ex08Challange">
+    <configuration name="Ex04UniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula06.Ex04UniqueNumber" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula05.*" />
+          <option name="PATTERN" value="aula06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex04DaysOfLive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Ex04DaysOfLive" />
+    <configuration name="Ex05Discount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula06.Ex05Discount" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.*" />
+          <option name="PATTERN" value="aula06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex05UniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Ex05UniqueCharacter" />
+    <configuration name="Ex06Taxation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula06.Ex06Taxation" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.*" />
+          <option name="PATTERN" value="aula06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex06UniqueValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Ex06UniqueValues" />
+    <configuration name="Ex07Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula06.Ex07Exception" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.*" />
+          <option name="PATTERN" value="aula06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex07Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula04.Ex07Triangle" />
+    <configuration name="Ex08Challange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula06.Ex08Challange" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula04.*" />
+          <option name="PATTERN" value="aula06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex01Fruits" />
-        <item itemvalue="Application.Ex07Triangle" />
-        <item itemvalue="Application.Ex06UniqueValues" />
-        <item itemvalue="Application.Ex05UniqueCharacter" />
-        <item itemvalue="Application.Ex04DaysOfLive" />
+        <item itemvalue="Application.Ex08Challange" />
+        <item itemvalue="Application.Ex05Discount" />
+        <item itemvalue="Application.Ex07Exception" />
+        <item itemvalue="Application.Ex06Taxation" />
+        <item itemvalue="Application.Ex04UniqueNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +182,76 @@
           <url>file://$PROJECT_DIR$/src/aula04/Ex01Costs.java</url>
           <line>63</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex04UniqueNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula06/Ex05Discount.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/aula04/Ex01Costs.java</url>
